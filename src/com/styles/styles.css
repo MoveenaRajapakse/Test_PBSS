@@ -1,0 +1,77 @@
+#pane{
+    -fx-background-color: #ffffb3;
+}
+
+#tabpane{
+    -fx-background-color: #967b30;
+}
+
+#title {
+    -fx-font-size: 20pt;
+    -fx-font-family: "Verdana";
+
+    -fx-color:#000000;
+    -fx-text-alignment:center;
+    -fx-opacity: 1;
+    -fx-font-weight:bold;
+}
+
+#sub-title{
+    -fx-font-size: 15pt;
+    -fx-font-family: "Verdana";
+    -fx-font-weight:bold;
+}
+#table{
+    -fx-background-radius:32;
+
+
+}
+
+#search{
+    -fx-background-radius:32;
+    -fx-min-width:390;
+    -fx-min-height:30;
+}
+
+#btnAdd{
+    -fx-background-color: #f5bf2c;
+
+    -fx-font-size: 11pt;
+    -fx-font-family: "Verdana";
+    -fx-font-color: faffff;
+    -fx-font-weight:bold;
+    -fx-min-width:100;
+    -fx-min-height:9;
+
+
+
+}
+
+#label{
+    -fx-font-size:14;
+    -fx-font-family:"Verdana";
+}
+
+#textfield{
+    -fx-min-width:150;
+    -fx-min-height:15;
+    -fx-background-radius:32;
+
+
+}
+
+#text{
+    -fx-font-size:14;
+    -fx-font-family:"Verdana";
+ }
+
+#ComboBox{
+        -fx-min-width:150;
+          -fx-min-height:15;
+          -fx-background-radius:40;
+}
+
+#textarea{
+        -fx-font-size:14;
+        -fx-font-family:"Verdana";
+}
